@@ -9,6 +9,8 @@ using TestWebApplication.Models;
 
 #nullable disable
 
+// Contain code for creating the SQL Server DB or tables with the MODELS
+
 namespace TestWebApplication.Migrations
 {
     [DbContext(typeof(AppDbContext))]
